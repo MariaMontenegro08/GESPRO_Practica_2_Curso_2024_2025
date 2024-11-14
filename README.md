@@ -8,5 +8,10 @@ Incluid debajo el nombre de los miembros del grupo:
 -Marina Ortega Plaza
 
 Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub. (15%)
-1. Primero creamos las cuentas individualmente y después una de las dos crea un repositorio conjunto para poder trabajarlo juntas, invitando a la otra persona como colaborador. 
+1. Primero creamos las cuentas individualmente y después una de las dos crea un repositorio conjunto para poder trabajarlo, invitando a la otra persona como colaborador.
+   ![Captura de pantalla 2024-11-14 120835](https://github.com/user-attachments/assets/7c877802-e2d6-4d9d-b463-78645187cd27)
+2. Activamos lo issues para poder realizar la tarea correctamente.
+   ![Captura de pantalla 2024-11-14 120800](https://github.com/user-attachments/assets/1266efe4-9aad-4e37-908c-1555cedf11ee).
+3. Conectamos el github con el zenhub.
+
 
