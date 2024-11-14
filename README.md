@@ -16,5 +16,8 @@ Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase 
    ![Captura de pantalla 2024-11-14 121902](https://github.com/user-attachments/assets/c84aa488-a352-49d6-9bc0-00ccb649f1e7)
 4. Conectamos el github con el zenhub.
    ![Captura de pantalla 2024-11-14 121726](https://github.com/user-attachments/assets/715bdc26-ba01-488a-95bf-80c3b2a266e7)
+5. Empezamos a crear los issues.
+   ![Captura de pantalla 2024-11-14 122226](https://github.com/user-attachments/assets/365843c7-ed63-4fde-a080-c8a946523597)
+   ![Captura de pantalla 2024-11-14 122238](https://github.com/user-attachments/assets/d1b6350a-b4b8-44df-a21c-ad1de18fe1e2)
 
 
