@@ -12,7 +12,9 @@ Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase 
    ![Captura de pantalla 2024-11-14 120835](https://github.com/user-attachments/assets/7c877802-e2d6-4d9d-b463-78645187cd27)
 2. Activamos lo issues para poder realizar la tarea correctamente.
    ![Captura de pantalla 2024-11-14 120800](https://github.com/user-attachments/assets/1266efe4-9aad-4e37-908c-1555cedf11ee).
-3. Conectamos el github con el zenhub.
+3. De esta pantalla, podemos crear nuevos issues, milestones(fechas de entrega) y labels(etiquetas).
+   ![Captura de pantalla 2024-11-14 121902](https://github.com/user-attachments/assets/c84aa488-a352-49d6-9bc0-00ccb649f1e7)
+4. Conectamos el github con el zenhub.
    ![Captura de pantalla 2024-11-14 121726](https://github.com/user-attachments/assets/715bdc26-ba01-488a-95bf-80c3b2a266e7)
 
 
