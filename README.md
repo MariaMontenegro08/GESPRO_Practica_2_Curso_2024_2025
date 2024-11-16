@@ -20,4 +20,13 @@ Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase 
    ![Captura de pantalla 2024-11-14 122226](https://github.com/user-attachments/assets/365843c7-ed63-4fde-a080-c8a946523597)
    ![Captura de pantalla 2024-11-14 122238](https://github.com/user-attachments/assets/d1b6350a-b4b8-44df-a21c-ad1de18fe1e2)
 
+Filtro por Epics, US y Tasks en la columna de New Issues (15%)
+   ![Captura de pantalla 2024-11-16 195133](https://github.com/user-attachments/assets/64ff5334-e463-40b9-8a13-6d5e2496cdf5)
+Hemos creado todas como puedes comprobar pero no nos entran en la captura las 42 issues.
+
+Tareas de 1er Release en el Sprint Backlog (5%)
+
+
+
+
 
