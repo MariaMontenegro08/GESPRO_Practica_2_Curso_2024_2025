@@ -62,20 +62,23 @@ Comienzo de la 2da Release (10%)
 
 Hacemos lo mismo que hicimos anteriormente con la 1er release pero ahora con la 2a.
 
-   ![image](https://github.com/user-attachments/assets/24e63ebe-fb4d-4b30-ba3f-890a4368f05b)
-
    ![image](https://github.com/user-attachments/assets/bc42599b-9d6b-466d-bfb4-a366f6d0713c)
+
+   ![image](https://github.com/user-attachments/assets/24e63ebe-fb4d-4b30-ba3f-890a4368f05b)
 
 Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
 
 Movemos como hemos hecho con las de la release 1, solo que ahora las hemos filtrado por etiquetas.
 
-Como vemos a continuación, las de 'setup' estan en progress, las de 'location' y 'extra' en review, y el resto en done.
+   ![Captura de pantalla 2024-11-16 203210](https://github.com/user-attachments/assets/a8eae439-fc9f-4f52-b985-f3df55ee7e3c)
+   ![Captura de pantalla 2024-11-16 203157](https://github.com/user-attachments/assets/d6ad940b-1f35-40a7-a57d-ebbbcf101b0e)
 
+   Por ejemplo, hemos filtrado por setup y lo que no sale es que están las de la release 2 en la columna de 'in progress' pero algunas de la release 3, estan en la columna principal.
 
-   ![Captura de pantalla 2024-11-16 203157](https://github.com/user-attachments/assets/66ef96b3-b9ec-4856-87f0-9e26876ed38c)
+   ![image](https://github.com/user-attachments/assets/f98a65ca-eea3-4dc4-8d41-d65763e4575b)
 
-   ![Captura de pantalla 2024-11-16 203210](https://github.com/user-attachments/assets/2026e76b-2fa5-451b-87a9-09d8f4d40bdd)
+   ![image](https://github.com/user-attachments/assets/d3bbfec5-dabd-4fcd-992d-0fa090b98d44)
+
 
 
 Imagen de conversación en dos tareas (10%)
