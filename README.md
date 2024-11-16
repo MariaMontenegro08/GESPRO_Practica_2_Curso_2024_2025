@@ -1,4 +1,4 @@
-# GESPRO Práctica 2 (Curso 2024-2025)
+![Captura de pantalla 2024-11-16 203157](https://github.com/user-attachments/assets/1360b01f-b26b-4f99-b092-c050c4e2ac54)# GESPRO Práctica 2 (Curso 2024-2025)
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2024/25. Universidad de Burgos.
 
 Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositorio.
@@ -21,12 +21,49 @@ Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase 
    ![Captura de pantalla 2024-11-14 122238](https://github.com/user-attachments/assets/d1b6350a-b4b8-44df-a21c-ad1de18fe1e2)
 
 Filtro por Epics, US y Tasks en la columna de New Issues (15%)
-   ![Captura de pantalla 2024-11-16 195133](https://github.com/user-attachments/assets/64ff5334-e463-40b9-8a13-6d5e2496cdf5)
+
 Hemos creado todas como puedes comprobar pero no nos entran en la captura las 42 issues.
+
+   ![Captura de pantalla 2024-11-16 195133](https://github.com/user-attachments/assets/64ff5334-e463-40b9-8a13-6d5e2496cdf5)
 
 Tareas de 1er Release en el Sprint Backlog (5%)
 
+Hemos pasado todas las del 1er release al sprint backlog(en total son 8 como vemos en la imagen).
+  
+   ![image](https://github.com/user-attachments/assets/af7797a5-9eef-48d0-80ec-37f573362d18)
+
+Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) 
+
+Hemos movido las tareas que estaban en el sprint backlog a las columnas que nos muestran como va el avance de las mismas.
+
+   ![Captura de pantalla 2024-11-16 200236](https://github.com/user-attachments/assets/a056ce1c-dd32-44c9-937a-3d2959af3c05)
+
+Cierre de 1er Release (5%)
+
+Movemos las tareas en proceso a la columna de cierre, lo que significa que damos por finalizada estas releases.
+
+   ![Captura de pantalla 2024-11-16 202222](https://github.com/user-attachments/assets/df2a663a-6685-4dae-b181-a7338c7a1912)
+
+Comienzo de la 2da Release (10%)
+
+Hacemos lo mismo que hicimos anteriormente con la 1er release pero ahora con la 2a.
+
+   ![image](https://github.com/user-attachments/assets/24e63ebe-fb4d-4b30-ba3f-890a4368f05b)
+
+   ![image](https://github.com/user-attachments/assets/bc42599b-9d6b-466d-bfb4-a366f6d0713c)
+
+Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
+
+Movemos como hemos hecho con las de la release 1, solo que ahora las hemos filtrado por etiquetas.
+
+Como vemos a continuación, las de 'setup' estan en progress, las de 'location' y 'extra' en review, y el resto en done.
 
 
+   ![Captura de pantalla 2024-11-16 203157](https://github.com/user-attachments/assets/66ef96b3-b9ec-4856-87f0-9e26876ed38c)
+
+   ![Captura de pantalla 2024-11-16 203210](https://github.com/user-attachments/assets/2026e76b-2fa5-451b-87a9-09d8f4d40bdd)
+
+
+Imagen de conversación en dos tareas (10%)
 
 
