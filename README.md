@@ -62,16 +62,17 @@ Comienzo de la 2da Release (10%)
 
 Hacemos lo mismo que hicimos anteriormente con la 1er release pero ahora con la 2a.
 
-   ![image](https://github.com/user-attachments/assets/bc42599b-9d6b-466d-bfb4-a366f6d0713c)
-
    ![image](https://github.com/user-attachments/assets/24e63ebe-fb4d-4b30-ba3f-890a4368f05b)
+
+   ![image](https://github.com/user-attachments/assets/bc42599b-9d6b-466d-bfb4-a366f6d0713c)
 
 Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
 
 Movemos como hemos hecho con las de la release 1, solo que ahora las hemos filtrado por etiquetas.
 
-   ![Captura de pantalla 2024-11-16 203210](https://github.com/user-attachments/assets/a8eae439-fc9f-4f52-b985-f3df55ee7e3c)
    ![Captura de pantalla 2024-11-16 203157](https://github.com/user-attachments/assets/d6ad940b-1f35-40a7-a57d-ebbbcf101b0e)
+   
+   ![Captura de pantalla 2024-11-16 203210](https://github.com/user-attachments/assets/a8eae439-fc9f-4f52-b985-f3df55ee7e3c)
 
    Por ejemplo, hemos filtrado por setup y lo que no sale es que están las de la release 2 en la columna de 'in progress' pero algunas de la release 3, estan en la columna principal.
 
@@ -83,7 +84,11 @@ Movemos como hemos hecho con las de la release 1, solo que ahora las hemos filtr
 
 Imagen de conversación en dos tareas (10%)
 
+CONVERSACIÓN 1:
+
    ![image](https://github.com/user-attachments/assets/e26f6e17-d315-4a45-b028-f4329ce47da2)
+
+CONVERSACIÓN 2: 
 
    ![Captura de pantalla 2024-11-16 210638](https://github.com/user-attachments/assets/2e7ebf50-a837-40f0-a4d4-4bfc5e67efa2)
 
