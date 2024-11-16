@@ -1,4 +1,4 @@
-![Captura de pantalla 2024-11-16 203157](https://github.com/user-attachments/assets/1360b01f-b26b-4f99-b092-c050c4e2ac54)# GESPRO Práctica 2 (Curso 2024-2025)
+# GESPRO Práctica 2 (Curso 2024-2025)
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2024/25. Universidad de Burgos.
 
 Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositorio.
@@ -25,6 +25,20 @@ Filtro por Epics, US y Tasks en la columna de New Issues (15%)
 Hemos creado todas como puedes comprobar pero no nos entran en la captura las 42 issues.
 
    ![Captura de pantalla 2024-11-16 195133](https://github.com/user-attachments/assets/64ff5334-e463-40b9-8a13-6d5e2496cdf5)
+   
+
+Ahora filtramos por epics, por US y por tasks:
+
+   ![image](https://github.com/user-attachments/assets/90157ae4-c76e-4a5f-a32f-680ce9a6fe80)
+
+   ![image](https://github.com/user-attachments/assets/cac789e2-496d-401a-adcc-756a5d53d75e)
+
+En el caso de las type task, tenemos alguna ya terminada porque las habíamos movido y cerrado sin darnos cuenta de hacer estas capturas.
+
+   ![image](https://github.com/user-attachments/assets/ab7f4e4a-d44e-430d-a7cd-21a5b150b5f0)
+
+
+
 
 Tareas de 1er Release en el Sprint Backlog (5%)
 
@@ -65,5 +79,12 @@ Como vemos a continuación, las de 'setup' estan en progress, las de 'location' 
 
 
 Imagen de conversación en dos tareas (10%)
+
+   ![image](https://github.com/user-attachments/assets/e26f6e17-d315-4a45-b028-f4329ce47da2)
+
+   ![Captura de pantalla 2024-11-16 210638](https://github.com/user-attachments/assets/2e7ebf50-a837-40f0-a4d4-4bfc5e67efa2)
+
+   ![Captura de pantalla 2024-11-16 210650](https://github.com/user-attachments/assets/0adc60d7-af4d-4b5b-8bc1-9dff0593130b)
+
 
 
